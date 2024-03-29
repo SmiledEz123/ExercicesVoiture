@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cars", "Cars\Cars.csproj", "{F9D5D14F-44DD-4A17-B9ED-B3883E6F7097}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modles", "Modles\Modles.csproj", "{40A399F6-0CE2-4D99-BA05-B2A0D649AE9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9D5D14F-44DD-4A17-B9ED-B3883E6F7097}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9D5D14F-44DD-4A17-B9ED-B3883E6F7097}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9D5D14F-44DD-4A17-B9ED-B3883E6F7097}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9D5D14F-44DD-4A17-B9ED-B3883E6F7097}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40A399F6-0CE2-4D99-BA05-B2A0D649AE9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40A399F6-0CE2-4D99-BA05-B2A0D649AE9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40A399F6-0CE2-4D99-BA05-B2A0D649AE9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40A399F6-0CE2-4D99-BA05-B2A0D649AE9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8B029EE-77E9-4C12-88ED-E7CE11BC9435}
+	EndGlobalSection
+EndGlobal
